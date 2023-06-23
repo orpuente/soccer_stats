@@ -2,7 +2,7 @@
 
 A CLI written in Rust to keep your soccer statistics ⚽📊.
 
-It feature two commands:
+It features two commands:
 - `add name goals assits`
 - `del name`
 
